@@ -6,3 +6,6 @@ My name is Ugheghele James  Earnest Usman I am a Junior web developer aiming to 
 <p>couple of calls on the row</P>
 <p>if i be a king on my flow</p>
 <p>I need that queen on the throne</p>
+<h1>welcm to my Reposy<br>
+<img src="images/fitimg27.jpg" class="img-fluid xx"></h1>
+<h5>7.Eat more fiber-rich foods</h5>
